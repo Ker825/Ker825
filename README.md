@@ -23,18 +23,15 @@
 </div>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego_cisneros825) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@diegocisnero825) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Diego_Cisneros5) 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego_cisneros825) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@diegocisnero825) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Diego_Cisneros5)  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100023572563536&mibextid=ZbWKwL) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/pwuzb9kpi350h16wd0h1lxndv?si=pkI3JFB3TLmiGtl5yCSVyA)]
 
 ### Programming Languages 🌐
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 💻 Tools 🛠️
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ker825&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -52,7 +49,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anandmainali/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@anandmainali-blue?style=flat&logo=linkedin"></a>
-<a href="https://stackoverflow.com/users/8519896/anand-mainali?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Anand%20Mainali-blue?style=flat&logo=stackoverflow"></a>
+<a href="https://www.linkedin.com/in/diego-emmanuel-cisneros-rivera-670691327/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Diego Emmanuel Cisneros Rivera-red?style=flat&logo=linkedin"></a>
 <a href="mailto:cisnerosriveradiegoemmanuel@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cisnerosriveradiegoemmanuel@gmail.com-red?style=flat&logo=gmail"></a>
 </p>
