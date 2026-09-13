@@ -13,8 +13,8 @@
  
  🌱 I’m currently learning about the cibersegurity
  
- :books: I want to learn ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Rust Version](https://img.shields.io/github/rust-package/cargo-version/tu_usuario/tu_repositorio?style=for-the-badge&logo=rust&logoColor=white)
- 
+ :books: I want to learn ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
  👯 I’m looking to collaborate for a TikTok account to teach about the computing
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
