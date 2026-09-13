@@ -7,6 +7,7 @@
 ### Hi there 👋 I'm Diego Emmanuel
 > Studient at UABJO in Oaxaca. Mexico
 > I'm in Bachelor of Computer Science
+> Python Enjoyer 😍
 
 <div>
  <p>
@@ -15,7 +16,7 @@
  
  :books: I want to learn ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) and ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
- 👯 I’m looking to collaborate for a TikTok account to teach about the computing
+ 👯 I’m looking to kwon more about python
  
  🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
