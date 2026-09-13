@@ -5,9 +5,9 @@
 </p>
 
 ### Hi there 👋 I'm Diego Emmanuel
-> Studient at UABJO in Oaxaca. Mexico
-> I'm in Bachelor of Computer Science
-> Python Enjoyer 😍
+> Studient at UABJO in Oaxaca. Mexico | 
+> I'm in Bachelor of Computer Science | 
+> Python Enjoyer 😍 |
 
 <div>
  <p>
