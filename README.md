@@ -48,7 +48,8 @@
 
 ### Github Repos
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ker825&repo=Homework&show_owner=true)](https://github.com/Ker825/Homework)
+[![Algoritmoo]([https://github-readme-stats.vercel.app/api/pin/?username=ker825&repo=Homework&show_owner=true)](https://github.com/Ker825/Homework](https://github.com/Ker825/QuickSort))
+[![DiscordBot]([[https://github-readme-stats.vercel.app/api/pin/?username=ker825&repo=Homework&show_owner=true)](https://github.com/Ker825/Homework](https://github.com/Ker825/QuickSort](https://github.com/Ker825/ChenchoBot)))
 
 <h3> 🤝🏻 Connect with Me </h3>
 
