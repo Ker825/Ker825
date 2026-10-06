@@ -46,10 +46,13 @@
 [![](https://visitcount.itsvg.in/api?id=Ker825&icon=6&color=4)](https://visitcount.itsvg.in)
 
 
-### Github Repos
+### GitHub Repos
 
-[![Algoritmoo]([https://github-readme-stats.vercel.app/api/pin/?username=ker825&repo=Homework&show_owner=true)](https://github.com/Ker825/Homework](https://github.com/Ker825/QuickSort))
-[![DiscordBot]([[https://github-readme-stats.vercel.app/api/pin/?username=ker825&repo=Homework&show_owner=true)](https://github.com/Ker825/Homework](https://github.com/Ker825/QuickSort](https://github.com/Ker825/ChenchoBot)))
+[![Homework](https://github-readme-stats.vercel.app/api/pin/?username=Ker825&repo=Homework&show_owner=true)](https://github.com/Ker825/Homework)
+
+[![QuickSort](https://github-readme-stats.vercel.app/api/pin/?username=Ker825&repo=QuickSort&show_owner=true)](https://github.com/Ker825/QuickSort)
+
+[![ChenchoBot](https://github-readme-stats.vercel.app/api/pin/?username=Ker825&repo=ChenchoBot&show_owner=true)](https://github.com/Ker825/ChenchoBot)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
