@@ -42,7 +42,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ker825&repo=QuickSort&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/Ker825/ChenchoBot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ker825&repo=ChenchoBot&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ker825&repo=Rika-Manga-Color&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
