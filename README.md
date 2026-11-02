@@ -41,7 +41,7 @@
   <a href="https://github.com/Ker825/QuickSort">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ker825&repo=QuickSort&theme=tokyonight&show_owner=true" alt="QuickSort" />
   </a>
-  <a href="https://github.com/Ker825/ChenchoBot">
+  <a href="https://github.com/Ker825/Rika-Manga-Color">
     <img src="https://github-stats-extended.vercel.app/api/pin?username=Ker825&repo=ChenchoBot&theme=tokyonight&show_owner=true" alt="ChenchoBot" />
   </a>
 </p>
